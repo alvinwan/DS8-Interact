@@ -1,3 +1,5 @@
+> **Note:** This project has been moved to Data 8's github repository at [https://github.com/data-8/DS8-Interact](https://github.com/data-8/DS8-Interact).
+
 # DS8-Interact
 side server for UC Berkeley DS8's JuypterHub deployment to copy remote notebooks 
 into user accounts
